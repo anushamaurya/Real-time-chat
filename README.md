@@ -6,9 +6,7 @@ This project is a real-time chatting application built using Django. It allows u
 
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
+
 
 ## Features
 
